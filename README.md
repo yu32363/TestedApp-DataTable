@@ -1,6 +1,6 @@
 # data_table_test_app
 
-A new Flutter application.
+DataTable test app
 
 ## Getting Started
 
